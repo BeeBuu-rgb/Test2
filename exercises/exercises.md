@@ -1,9 +1,9 @@
 NOTE: to remove git: use `Remove-Item -Recurse -Force .git`
 How to change repository when cloning from someone else?
-•	git remote -v                       (you will see other repository)
-•	git remote remove origin 
-•	git remote -v                       (you should see nothing)
-•	git remote add origin <URL>
+-	git remote -v                       (you will see other repository)
+-	git remote remove origin 
+-	git remote -v                       (you should see nothing)
+-	git remote add origin <URL>
 
 # Week 1 Lab : Git Command Checklist
 
