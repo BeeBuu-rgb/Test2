@@ -4,3 +4,7 @@
 
 console.log("Hello, Git!");
 console.log("Risal"); //comment
+
+function sayGoodbye(){
+    console.log("Goodbye");
+}
